@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FragmentMultipaneUI</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="data">
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Banana</item>
+        <item>Pineapple</item>
+    </string-array>
+    <string-array name="definition">
+        <item>This is apple</item>
+        <item>This is Mango</item>
+        <item>This is banana</item>
+        <item>This is pineapple</item>
+    </string-array>
+</resources>

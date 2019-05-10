@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    tools:context=".FragmentOne"
+    android:background="@drawable/a1">
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_height="60dp"
+        android:layout_width="match_parent"
+        android:fitsSystemWindows="true"
+        android:text="Apple"
+        android:id="@+id/button_one"></Button>
+
+    <Button
+        android:id="@+id/button_two"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:fitsSystemWindows="true"
+        android:text="Mango"
+        android:layout_marginTop="70dp"></Button>
+
+</FrameLayout>
